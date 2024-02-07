@@ -36,3 +36,8 @@ python3 app.py
 ## Screenshots
 
 ![App Screenshot](https://i.pinimg.com/originals/37/99/b8/3799b8668983950892d8990fb145b73e.jpg)
+
+
+## Authors
+
+- [@Hitallo Azevedo](https://www.github.com/hitalloazevedo)
